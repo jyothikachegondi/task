@@ -1,0 +1,36 @@
+/* h1{
+       color : blueviolet;
+} */
+
+.navication #li1
+{
+    background-color: red;
+    border:1px solid yellow;
+    margin: 50px;
+    padding:20px 10px 30px 15px;
+    
+}
+.navication li{
+
+    display: inline;
+    padding: 20px;
+}
+a{
+    display: block;
+}
+
+table ,tr,td,th{
+    border : 1px solid black;
+    border-collapse: collapse; 
+    
+    width:500px;
+  
+}
+/* tr:nth-child(even)
+{
+    background-color: aqua;
+}
+tr:nth-child(odd)
+{
+    background-color: pink;
+} */
